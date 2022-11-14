@@ -21,3 +21,5 @@ for(int n=0; n<number; ++n){
 
 average=sum/number;
 printf("The average is %d", average);
+   return 0;
+     }
