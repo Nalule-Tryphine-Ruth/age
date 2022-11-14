@@ -12,3 +12,9 @@ int average;
 
 printf("Enter the total number of ages:");
 scant("%d", &number);
+
+for(int n=0; n<number; ++n){
+    printf("Enter the %dage:", n+1);
+    scanf("%d", &age[n]);
+    sum=sum+age[n];
+}
