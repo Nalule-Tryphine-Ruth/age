@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+//This program will find the average of any numbers
+//using arrays..
+
+int main () {
+int age[8];
+int number;
+int sum=0;
+int average;
