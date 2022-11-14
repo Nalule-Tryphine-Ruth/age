@@ -18,6 +18,7 @@ for(int n=0; n<number; ++n){
     scanf("%d", &age[n]);
     sum=sum+age[n];
 }
+
 average=sum/number;
 printf("The average is %d", average);
    return 0;
