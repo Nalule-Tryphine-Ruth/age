@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 //This program will find the average of any numbers
-//using arrays..
+//using loops
 
 int main () {
 int age[8];
@@ -25,3 +25,4 @@ average=sum/number;
 printf("The average is %d", average);
    return 0;
      }
+
