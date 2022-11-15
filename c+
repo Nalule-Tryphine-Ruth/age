@@ -16,6 +16,7 @@ scant("%d", &number);
 for(int n=0; n<number; ++n){
 //requests user to enter age
     printf("Enter the %dage:", n+1);
+//allows user to enter age 
     scanf("%d", &age[n]);
     sum=sum+age[n];
 }
