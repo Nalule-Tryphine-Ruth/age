@@ -11,7 +11,7 @@ int sum=0;
 int average;
 
 printf("Enter the total number of ages:");
-scant("%d", &number);
+scanf("%d", &number);
 //this is a loop
 for(int n=0; n<number; ++n){
 //requests user to enter age
