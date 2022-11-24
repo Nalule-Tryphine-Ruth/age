@@ -7,12 +7,14 @@
 int main () {
 int age[8];
 int number;
+char name;
 int sum=0;
 int average;
 
 printf("Enter the total number of ages:");
 scanf("%d", &number);
 printf("Please enter your name");
+scanf("%d", &name);
 //this is a loop
 for(int n=0; n<number; ++n){
 //requests user to enter age
