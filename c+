@@ -7,6 +7,7 @@
 int main () {
 int age[8];
 int number;
+char name;
 int sum=0;
 int average;
 
