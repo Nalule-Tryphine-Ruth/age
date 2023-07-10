@@ -3,7 +3,7 @@
 
 //This program will find the average of any numbers
 //using loops
-
+//initializing
 int main () {
 int age[8];
 int number;
