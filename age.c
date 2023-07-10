@@ -12,6 +12,7 @@ int sum=0;
 int average;
 
 printf("Enter the total number of ages:");
+//scanf prompts user to enter value
 scanf("%d", &number);
 printf("Please enter your name");
 scanf("%d", &name);
